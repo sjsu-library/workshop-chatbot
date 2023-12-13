@@ -13,6 +13,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
 st.title("🦜 LangChain: Chat with Documents")
+st.text("Test chatbot for SJSU Library Kingbot")
 
 @st.cache_resource(ttl="1h")
 def configure_retriever(uploaded_files):
