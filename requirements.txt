@@ -10,3 +10,4 @@ langchain-experimental==0.0.10
 streamlit
 docarray==0.38.0
 hnswlib==0.7.0
+streamlit-analytics
