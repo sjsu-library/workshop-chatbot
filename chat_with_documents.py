@@ -111,7 +111,6 @@ if len(msgs.messages) == 0 or st.sidebar.button("Clear message history"):
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     st.chat_message(avatars[msg.type]).write(msg.content)
-    counts["widgets"]["test"] += 1
 
 if user_query := st.chat_input(placeholder="Ask me anything!"):
     st.chat_message("user").write(user_query)
