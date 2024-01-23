@@ -1,7 +1,6 @@
 import os
 import tempfile
 import streamlit as st
-import streamlit_analytics
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import PyPDFLoader
 from langchain.memory import ConversationBufferMemory
@@ -12,7 +11,6 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-streamlit_analytics.start_tracking()
 
 st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜")
 st.title("🦜 LangChain: Chat with Documents")
@@ -120,4 +118,3 @@ if user_query := st.chat_input(placeholder="Ask me anything!"):
         stream_handler = StreamHandler(st.empty())
         response = qa_chain.run(user_query, callbacks=[retrieval_handler, stream_handler])
 
-streamlit_analytics.stop_tracking()
