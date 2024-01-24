@@ -23,7 +23,7 @@ def configure_retriever_local():
 
     with open("kingbot.pdf", "wb") as f:
         f.write(file.getvalue())
-    loader = PyPDFLoader(temp_filepath)
+    loader = PyPDFLoader("kingbot.pdf")
     docs.extend(loader.load())
 
     # Split documents
