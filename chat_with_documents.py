@@ -20,10 +20,10 @@ st.text("Test chatbot for SJSU Library Kingbot, hosted on Streamlit Community Cl
 def configure_retriever_local():
     # Read documents
     docs = []
-
-    with open("kingbot.pdf", "wb") as f:
+    filePath = os.path.join(root, "kingbot.pdf")
+    with open(filePath, "wb") as f:
         f.write(file.getvalue())
-    loader = PyPDFLoader("kingbot.pdf")
+    loader = PyPDFLoader(f)
     docs.extend(loader.load())
 
     # Split documents
