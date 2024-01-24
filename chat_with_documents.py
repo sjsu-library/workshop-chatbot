@@ -14,16 +14,10 @@ st.set_page_config(page_title="LangChain: Chat with Documents", page_icon="🦜"
 st.title("🦜 LangChain: Chat with Documents")
 st.text("Test chatbot for SJSU Library Kingbot, hosted on Streamlit Community Cloud")
 @st.cache_resource(ttl="1h")
-def configure_retriever(uploaded_files):
+def configure_retriever():
     # Read documents
-    docs = []
-    temp_dir = tempfile.TemporaryDirectory()
-    for file in uploaded_files:
-        temp_filepath = os.path.join(temp_dir.name, file.name)
-        with open(temp_filepath, "wb") as f:
-            f.write(file.getvalue())
-        loader = PyPDFLoader(temp_filepath)
-        docs.extend(loader.load())
+    loader = DirectoryLoader('./data')
+    docs = loader.load()
     # Split documents
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
     splits = text_splitter.split_documents(docs)
@@ -63,13 +57,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
 
 openai_api_key = st.secrets["key"]
 
-uploaded_files = st.sidebar.file_uploader(
-    label="Upload PDF files", type=["pdf"], accept_multiple_files=True
-)
-if not uploaded_files:
-    st.info("Please upload PDF documents to continue.")
-    st.stop()
-retriever = configure_retriever(uploaded_files)
+retriever = configure_retriever()
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
 memory = ConversationBufferMemory(memory_key="chat_history", chat_memory=msgs, return_messages=True)

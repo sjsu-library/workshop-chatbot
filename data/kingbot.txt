@@ -1,0 +1,902 @@
+"Please contact Library Accounts to check the status of your library account.
+Phone: 408-808-2000
+Email: library-accounts@sjsu.edu
+or in-person on the 1st floor of the library."
+
+Sign in to your OneSearch Account to view your library loans, requests, and fines.
+
+
+The SJSU Library has certain renewal policies for undergraduate and graduate students. Undergraduates are unable to renew books, while graduate students are allowed five renewals per item. [link] If you think there are issues with your accounting regarding renewals, please contact Accounts by visiting the circulation desk on the first floor or via live chat (during business hours), email (library-accounts@sjsu.edu), or by telephone (408-808-2000).
+
+
+In order to view your holds, you'll have to sign in to your OneSearch account first. Once you are signed in, you can view the status of your hold under "Requests."
+
+
+The SJSU library remains operating during winter, spring, and summer breaks. Most functions of the library, including requesting and borrowing books, will continue to be available.
+
+
+Your Tower ID also serves as your library card number.
+
+"There are currently two options for checkout periods from the SCS:
+- 1 day (24 hours)
+- 1 week (7 days)"
+
+"To receive information on available devices, you can contact Student Computing Services directly using the following:
+Phone: 408-808-2470
+Email: library-SCS-group@sjsu.edu
+Location: Library 4th floor"
+
+"Unfortunately, we do not accept physical replacements for lost items. Items overdue beyond 14 days are considered lost and will incur a $110 replacement fee.
+If you wish to contact the library about this issue, please call 408-808-2000."
+
+"Electronic course reserves can be found on Canvas.
+Physical reserves are available at the Course Reserves desk on the first floor of the library. "
+
+"Movies can be borrowed from the library similarly to books. Once you have signed in to your account, you may request a movie through the SJSU library website.
+
+SJSU also provides online access to many videos as well. Click the link to view our streaming video collection."
+In order to request items through the library, you will have to sign in to your account first. Once you've signed in to your OneSearch account, the option to request items will be available.
+"To view the due date for books you have checked out, you will have to login to your OneSearch account first. Loan information can be found under ""Overview"" or ""Loans.""
+
+[OneSearch Login url]
+
+[Loan policy]"
+"When you find an item on the SJSU OneSearch online catalog that you are interested in reserving, click the ""Request this Item"" button. You must be logged in to your OneSearch account first to access this function.
+
+If the item is not available through the library, it can be requested through CSU+ or Interlibrary Loan (ILL).
+
+Note: Holds cannot be extended and must be returned by the given due date."
+
+Checking out physical books is an option for all SJSU students. To get started checking out books and making reservations, sign in to your OneSearch account.
+
+"Unfortunately, entire ebooks cannot be requested via ILL.
+
+
+The library can scan 2-3 book chapters, but entire books cannot be requested by students."
+
+"A librarian can provide scans of a periodical for students. Periodicals at other institutions can be requested to be scanned.
+
+
+
+Note: We are able to scan 2-3 articles from a periodical, but not the entire periodical issue.
+
+
+Books at the library cannot be scanned and must be checked out instead. "
+
+The King Library offers 475,000 square feet of collections, collaborative work spaces, meeting rooms, exhibit areas, and other unique resources. The nine-floor building is the main library for both SJSU and the San JosÃ© Public Library.
+
+"SCS hours are as follows:
+
+
+M-Th: 9am to 7pm
+
+F: 9am to 5pm
+
+Weekends: 1pm to 5pm"
+
+Prefer calling the library? Call 408-808-2000 during our open hours for immediate assistance.
+
+
+"The Beethoven Center at SJSU is an extensive library and museum devoted solely to the life, works, and accomplishments of Ludwig van Beethoven.
+
+
+
+It is located on the 5th floor of the King Library and is open Tuesday through Saturday or by appointment. "
+
+"The hours of operation of the Circulation Desk are:
+
+M-Th: 9am-7pm
+F: 9am-5pm
+Weekends: 1pm-5pm
+
+To contact Circulation, call 408-808-2000"
+
+"The library has free public wifi available.
+
+The network names are either ""SJSU_Guest"" or ""King_Library_WIFI."""
+Hours for The Shop cafe are Monday through Friday from 8am to 2pm. Check out the menu here:
+
+"The quiet floors of the library are floors 6-8.
+
+Quiet Floor policy includes the following:
+- Low level, minimum conversation
+- No cell phone use
+- No food
+- Covered drinks only
+- No drinks at computers"
+
+Standard & Poor's can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+PubMed can be accessed through the library's "Articles & Databases" page, under "P". Click the link provided to directly access the page.
+
+IEEE is available through the library's list of databases. Click here to be directed to the IEEE access link.
+
+Springer databases can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+"The SJSU Special Collections & Archives houses rare and historical books, documents, records, and more. These materials help preserve the history of California and SJSU.
+
+
+
+Special Collections are located on the 5th floor. You can contact their office by emailing <special.collections@sjsu.edu>."
+
+Web of Science can be found under "W" of our database catalog. Click the link to directly access the page.
+
+SJSU library provides access to Encyclopedia Brittanica through our external A-Z Databases page. Click the link to be directly access the page.
+
+The SJSU library offers access to Wiley Online Books as part of our eBooks collection. Follow the link to be directed to the Wiley Online login page.
+
+The SJSU library offers access to Gale eBooks as part of our eBooks collection. Follow the link to be directed to the Gale login page.
+
+Library & Information Science Source (LISS) can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+The Westlaw Database is a great resourse for finding legal research, including statutes, regulations, and Supreme Court Cases. It can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+HeinOnline is a great resourse for government, politics, and law research. It can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+The SJSU Library offers a number of databases for finding images. They can be find through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+The SJSU Library offers a number of databases for searching newspapers. They can be find through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+Academic Search Complete can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+Book reviews provide insight and opinions on published scholarly books. While book reviews are generally not appropriate for research papers, they can help you identify sources that are appropriate.  To access databases for book reviews, click the link below:   You can also use OneSearch, and use the "Review" filter, located under "Resource Type" on the left-hand side.
+
+Once you have completed a search on OneSearch, select the item you are interested in. The date can be found under the entry's title, as well as under "Details."
+
+The King Library offers a free New York Times subscription to all SJSU students! The subscription not only provides access to articles, but videos, podcasts, and more. Click the guide below to learn how you can access your subscription or search for it on the OneSearch database.
+
+"The Westlaw Database provides a quick and easy way to cite resources.
+
+
+â€¢ Once you have selected the case of your choosing,  highlight the section(s) you wish to cite.
+
+â€¢ An option to ""Copy with Reference"" will appear.
+
+â€¢ Click that link and you will be able to paste your selection, alongside the proper citation.
+
+â€¢ Click the options icon (three dots) to adjust the citation format. "
+
+
+Please follow this guide for step-by-step instructions on saving a search through OneSearch.
+
+This Libguide provides an explanation on the difference between Online Access and Full Text Available.
+
+SJSU librarian faculty specialize in a wide array of subject areas and are here to help with your research needs. Follow the link provided to view our staff directory and get in contact with them through email.
+
+"Most databases provide an option to filter results to just peer-reviewed journals/articles.
+
+Once you are in the results screen of your search, look on the left-hand menu to see if they have a ""Peer-reviewed journals"" (or similar) selection. Clicking this will narrow your results to only display peer-reviewed articles. Follow this link to view our research guide on finding peer reviewed sources."
+
+
+Two methods to begin narrowing your search is to refine your search through filters, or to utilize advanced search features. Follow these research guides to learn more:
+
+
+Literature reviews are an imporant part of research papers. The library offers helpful tutorials on how to write a successful literature review paper or section.
+
+
+"Looking for a specific article or resource? Unfortunately, that is a little beyond my current capabilities at the moment ðŸ˜”.
+
+I recommend typing what you've asked me into OneSearch!
+
+You can also follow the search tutorials listed below! ðŸ‘‡"
+
+"The library offers access to a number of video streaming databases and services. ðŸŽ¬
+
+A good place to start would be the Kanopy streaming service, which offers a catalog of educational documentaries and films.
+
+Click the following link to be directed to our list of video streaming resources. ðŸ‘‡"
+
+The APSA citation style is used for certain documents related to political science.
+
+Google Scholar can be customized to be integrated with some of the library's FindIt features. Click the link to watch a video tutorial on customizing Google Scholar.
+
+The SJSU library provides a helpful guide on how to evaluate sources. Click here to learn tips on fact checking:
+
+"Articles+ refers to the articles, ebooks, theses, and all other electronic resources that can be found searching our databases.
+
+Alternatively, you can view our list of databases available SJSU users. "
+
+Unfortunately, the King Library is no longer subscribed to Lexis Nexis. However, we have alternative databases available. Both HeinOnline and Westlaw offer similar resources. Click the links below to start your research.
+
+"To determine whether an article contains a case study, look for clues that the authors are showing the results of their original research. The report will have sections such as Methodology and Results or Findings.
+
+To find case studies, type ""your search term"" AND ""case study"" in the OneSearch box. For example, type [COVID-19 pandemic AND case study]. Filter by ""Articles"" on the left.
+
+If you need more help finding a case study, reach out to your subject librarian. "
+
+The accuracy of a citation will vary depending on the citation tool you are using. All computer generated citations are prone to errors, so it is recommended to double-check with the applicable citation style guide.
+
+Currently, masks are strongly recommended and strongly encouraged in the library. However, patrons are not required to wear a mask indoors. Please continue to be mindful and respectful of one another while visiting the library.
+
+Currently, the library allows patrons to eat snack foods and have covered drinks in most of the library. Exceptions for this apply when using our public computers. Click the following link to see our full Food and Drink policy.
+
+In order to request items through the library, you will have to sign in to your account first. Once you've signed in to your OneSearch account, the option to request items will be available.
+
+
+"To view the due date for books you have checked out, you will have to login to your OneSearch account first. Loan information can be found under ""Overview"" or ""Loans.""
+
+[OneSearch Login url]
+
+[Loan policy]"
+
+"When you find an item on the SJSU OneSearch online catalog that you are interested in reserving, click the ""Request this Item"" button. You must be logged in to your OneSearch account first to access this function.
+
+If the item is not available through the library, it can be requested through CSU+ or Interlibrary Loan (ILL).
+
+Note: Holds cannot be extended and must be returned by the given due date."
+
+Checking out physical books is an option for all SJSU students. To get started checking out books and making reservations, sign in to your OneSearch account.
+
+"Unfortunately, entire ebooks cannot be requested via ILL.
+
+The library can scan 2-3 book chapters, but entire books cannot be requested by students."
+
+"A librarian can provide scans of a periodical for students. Periodicals at other institutions can be requested to be scanned.
+
+Note: We are able to scan 2-3 articles from a periodical, but not the entire periodical issue.
+
+Books at the library cannot be scanned and must be checked out instead. "
+
+In order to request items through the library, you will have to sign in to your account first. Once you've signed in to your OneSearch account, the option to request items will be available.
+
+"To view the due date for books you have checked out, you will have to login to your OneSearch account first. Loan information can be found under ""Overview"" or ""Loans.""
+
+[OneSearch Login url]
+
+[Loan policy]"
+
+"When you find an item on the SJSU OneSearch online catalog that you are interested in reserving, click the ""Request this Item"" button. You must be logged in to your OneSearch account first to access this function.
+
+If the item is not available through the library, it can be requested through CSU+ or Interlibrary Loan (ILL).
+
+Note: Holds cannot be extended and must be returned by the given due date."
+Checking out physical books is an option for all SJSU students. To get started checking out books and making reservations, sign in to your OneSearch account.
+"Unfortunately, entire ebooks cannot be requested via ILL.
+
+The library can scan 2-3 book chapters, but entire books cannot be requested by students."
+
+"A librarian can provide scans of a periodical for students. Periodicals at other institutions can be requested to be scanned.
+
+Note: We are able to scan 2-3 articles from a periodical, but not the entire periodical issue.
+
+Books at the library cannot be scanned and must be checked out instead. "
+
+In order to request items through the library, you will have to sign in to your account first. Once you've signed in to your OneSearch account, the option to request items will be available.
+
+"To view the due date for books you have checked out, you will have to login to your OneSearch account first. Loan information can be found under ""Overview"" or ""Loans.""
+
+[OneSearch Login url]
+
+[Loan policy]"
+"When you find an item on the SJSU OneSearch online catalog that you are interested in reserving, click the ""Request this Item"" button. You must be logged in to your OneSearch account first to access this function.
+
+If the item is not available through the library, it can be requested through CSU+ or Interlibrary Loan (ILL).
+
+Note: Holds cannot be extended and must be returned by the given due date."
+
+Checking out physical books is an option for all SJSU students. To get started checking out books and making reservations, sign in to your OneSearch account.
+
+"Unfortunately, entire ebooks cannot be requested via ILL.
+
+
+
+The library can scan 2-3 book chapters, but entire books cannot be requested by students."
+
+"A librarian can provide scans of a periodical for students. Periodicals at other institutions can be requested to be scanned.
+
+
+
+Note: We are able to scan 2-3 articles from a periodical, but not the entire periodical issue.
+
+
+
+Books at the library cannot be scanned and must be checked out instead. "
+
+
+
+In order to request items through the library, you will have to sign in to your account first. Once you've signed in to your OneSearch account, the option to request items will be available.
+
+"To view the due date for books you have checked out, you will have to login to your OneSearch account first. Loan information can be found under ""Overview"" or ""Loans.""
+
+
+
+[OneSearch Login url]
+
+
+[Loan policy]"
+
+"When you find an item on the SJSU OneSearch online catalog that you are interested in reserving, click the ""Request this Item"" button. You must be logged in to your OneSearch account first to access this function.
+
+
+If the item is not available through the library, it can be requested through CSU+ or Interlibrary Loan (ILL).
+
+
+
+Note: Holds cannot be extended and must be returned by the given due date."
+
+Checking out physical books is an option for all SJSU students. To get started checking out books and making reservations, sign in to your OneSearch account.
+
+"Unfortunately, entire ebooks cannot be requested via ILL.
+
+
+
+
+
+The library can scan 2-3 book chapters, but entire books cannot be requested by students."
+"A librarian can provide scans of a periodical for students. Periodicals at other institutions can be requested to be scanned.
+
+
+Note: We are able to scan 2-3 articles from a periodical, but not the entire periodical issue.
+
+
+
+Books at the library cannot be scanned and must be checked out instead. "
+
+The SJSU Library has certain renewal policies for undergraduate and graduate students. Undergraduates are unable to renew books, while graduate students are allowed five renewals per item. [link] If you think there are issues with your accounting regarding renewals, please contact Accounts by visiting the circulation desk on the first floor or via live chat (during business hours), email (library-accounts@sjsu.edu), or by telephone (408-808-2000).
+
+In order to view your holds, you'll have to sign in to your OneSearch account first. Once you are signed in, you can view the status of your hold under "Requests."
+
+The SJSU library remains operating during winter, spring, and summer breaks. Most functions of the library, including requesting and borrowing books, will continue to be available.
+
+Your Tower ID also serves as your library card number.
+
+"There are currently two options for checkout periods from the SCS:
+
+
+- 1 day (24 hours)
+
+- 1 week (7 days)"
+
+"To receive information on available devices, you can contact Student Computing Services directly using the following:
+
+
+
+Phone: 408-808-2470
+
+Email: library-SCS-group@sjsu.edu
+
+Location: Library 4th floor"
+
+"Unfortunately, we do not accept physical replacements for lost items. Items overdue beyond 14 days are considered lost and will incur a $110 replacement fee.
+
+
+
+If you wish to contact the library about this issue, please call 408-808-2000."
+
+"Electronic course reserves can be found on Canvas.
+
+
+
+Physical reserves are available at the Course Reserves desk on the first floor of the library. "
+
+"Movies can be borrowed from the library similarly to books. Once you have signed in to your account, you may request a movie through the SJSU library website.
+
+
+SJSU also provides online access to many videos as well. Click the link to view our streaming video collection."
+
+Currently, masks are strongly recommended and strongly encouraged in the library. However, patrons are not required to wear a mask indoors. Please continue to be mindful and respectful of one another while visiting the library.
+
+Currently, the library allows patrons to eat snack foods and have covered drinks in most of the library. Exceptions for this apply when using our public computers. Click the following link to see our full Food and Drink policy.
+
+"SJSU and the University Police Department offers safety escort services, which are available 24/7.
+
+
+
+You can contact the safety escort line at 408-924-2000, or use any Bluelight or elevator phone. "
+
+SJPL patrons must submit a request for a OneSearch account to access SJSU's library collection. Click the following link to enter your submission:
+
+Thank you for your interest in making a donation to the SJSU library! Follow the link below to learn more about ways to give to the university. We appreciate your support!
+
+"SJSU's Accessible Education Center (AEC) is committed to providing services that support the educational development and success of students with disabilities.
+
+
+
+
+AEC services can be accessed through the MyAEC Online Portal. This requires students to first register with the AEC. Instructions for registration can be found with the following link."
+
+Click this link to learn more about SCS loan policies, including information on fines.
+
+White board pens are available to borrow at Student Computing Services. Follow the links below to learn more about checking out equipment:
+SJSU provides students and employees with access to Adobe's creative suite. Follow this link to learn if you are eligible and how to download the programs.
+
+This chatbot was used with Dialogflow and Kommunicate chatbot software. If you have questions about the chatbot, please contact Sharesly Rodriguez, at sharesly.rodriguez@sjsu.edu.
+
+The library offers a WhisperRoom Sound Studio that is available for reservation on the 4th floor. The studio contains technology and devices that can be used to film music, podcasts, and more! The studio is available for 2 hour reservation periods for SJSU affiliates.
+
+Public Meeting Rooms are available for reservation on the 2nd floor for both university members and public library cardholders. These spaces are great for meetings and community engagements.
+
+The SJSU library uses the OneSearch search engine, developed by Ex Libris.
+
+"Looking to learn new software and technology? The Library's Student Technology Training Center is here to help!
+
+
+
+The Center offers technology training and support for SJSU students, faculty, and staff. One-on-one and small group appointments are available.
+
+
+
+Also check out the Technology Resources Guide to learn how to use various software (Microsoft Word, Excel, Adobe, etc.)
+
+
+Email <librarytechtrainer@sjsu.edu> to schedule a consultation."
+
+"Anyone using either the King_Library_WIFI or SJSU_Guest wireless networks can access the majority of SJSU databases. Notable exceptions are those that require an SJSU e-mail address for access: O'Reilly Ebooks, SciFinder, ICPSR, Ebook Central, RefWorks, and Pivot. You will need to be on campus or near the library to log in to these networks.
+
+
+
+Read more about campus Wi-Fi networks at https://www.sjsu.edu/it/services/network/internet.php
+
+
+
+To check out SJSU books, you will need to get an SJSU library card.
+
+                                                                                                                                                                                                                                                                                                                                                                                                "
+Questions about fines and your account? Contact library-accounts@sjsu.edu For laptop returns and other devices, please contact Student Computing Services at library-SCS-group@sjsu.edu.For interlibrary loan (ILL) fines, please contact library-ils-group@sjsu.edu
+
+
+
+
+Books can now be returned in-person and via the book drops located on 4th Street. Laptops and devices can be returned to Student Computing Services on the fourth floor of the library. Questions? Visit the circulation desk on the first floor or contact staff via chat, email (library-accounts@sjsu.edu), or telephone (408-808-2000). Please note: â€¢ SJSU books and materials must be returned to the SJSU Library only.
+
+
+â€¢ SJPL books and materials can be returned to any SJPL branch. "
+
+
+"If you are an SJSU student, faculty, or staff, your SJSU Tower card serves as your library card to checkout SJSU materials.
+
+
+To replace your Tower Card, contact the Bursar's Office (408-924-1610).  If your Tower Card is lost, stolen or damaged, the replacement cost is $5.
+
+
+       "
+"Current SJSU users can use their Tower Cards as library cards to check out SJSU materials.
+
+
+
+To check out San Jose Public Library materials, you will need to get a library card from the San Jose Public Library. Click the link below to sign up for an SJPL card! It's free!"
+
+Laptops are available for week-long and semester-long loan. Other devices (webcams, calculators, hotspots) will be available in limited quantities. For more info, please visit SCS (link below).You can also borrow laptops from SJSU's Instructional Resource Center.
+
+Lost an item during the summer or Stay-At-Home Order? Please email us at: library-accounts@sjsu.edu
+
+Your textbook might be available for free digitally. Check eTextbooks (link below) or search for the book on the OneSearch Library Database. You may also check with the circulation desk on the 1st floor. SJSU's Affordable Learning $olutions (AL$) provides more info about affordable and free textbooks.
+
+"Late fees for Course Reserves: Hourly checkouts: $1 per hour, $20 maximum fine
+
+Daily checkouts: $5 per day, $120 maximum fine
+
+Fines must be paid online; no cash or checks will be accepted.If you have any questions, please contact library-accounts@sjsu.edu."
+
+Found something weird on your library account? Please email library-accounts@sjsu.edu
+
+To renew an item, sign in to your library (OneSearch) account, select the item you want to renew under Loans, and click Renew.
+
+
+ILL and CSU+ are back in service! Interlibrary Loan (ILL) allows you to borrow books, articles, dissertations from libraries worldwide. Books and journals from participating CSU campuses are also available by request on OneSearch. Items are usually received in 7 to 10 days. However, there is no guarantee that the requested material will be located.
+
+
+
+The SJSU library remains operating during winter, spring, and summer breaks. Most functions of the library, including requesting and borrowing books, will continue to be available.
+
+
+
+Need a map of the library? Click the link below!
+
+
+
+The King Library will reopen on August 2, 2021. Please check our hours (link below) for information on building and service hours. You may also chat with a librarian during business hours or use the link below to email a librarian. You will recieve a response within 24 hours.
+
+
+
+The King Library offers 475,000 square feet of collections, collaborative work spaces, meeting rooms, exhibit areas, and other unique resources. The nine-floor building is the main library for both SJSU and the San JosÃ© Public Library.
+
+
+
+To borrow library materials, you will need your Tower ID card. There are no limits on the number of items SJSU borrowers can check out. Loan periods are as follows: Undergraduate students: 16 weeks from date of checkout, no renewals Graduate students: 16 weeks from date of checkout, 5 renewals Faculty & Staff: 1 year from date of checkout, 10 renewals San Jose Public Library patrons: 3 weeks from date of checkout, 3 renewals
+
+
+If you have any questions about CSU+ fines, please contact library-accounts@sjsu.edu
+
+
+
+"Current SJSU students, staff, and faculty can visit and borrow from all CSU libraries with their Tower card and photo ID. Books and media can be checked out for 30 days without renewal.
+
+
+
+
+
+Distance students who would like to take advantage of this program can request a Tower card from the Bursar's Office: bursar@sjsu.edu.  "
+
+
+
+Materials from participating CSU campuses are now available by request on OneSearch. Due to staffing at other CSU libraries, transit times, and required quarantine periods, please be aware that it will take longer than usual to receive requested materials.
+
+
+
+"You can use Interlibrary Loan (ILLiad) to request books, articles (print or electronic), and dissertations that the library does not own.
+
+
+
+
+The loan period for ILL materials is 3 weeks,  with no grace period. Late items are $1 fine per day/per item."
+
+
+
+If you forgot your password, you can go to the ILLiad login page and click on "Forgot Password?" Enter your username (your University ID #) and then you will receive an e-mail with a link to update your password. You may also contact the Interlibrary Services Office at library-ils-group@sjsu.edu.
+
+
+
+"You will be notified by e-mail or phone when your requested material arrives. Photocopies of articles may be mailed to you.Books and other items can be picked up at the circulation desk located on the 1st floor. .  For Interlibrary Loan (ILL) requests, you can also log in to your ILLiad Account to monitor the progress of your request. For CSU+, check your OneSearch account.
+
+
+
+"
+
+
+
+"  ""There are separate self-check machines for SJPL and SJSU materials on the ground floor at King Library.""
+
+"
+
+
+
+You can pay for your fines online on OneSearch (link below) or in person at the Welcome Desk, located on the first floor of the library.    There are no daily fines for SJSU print materials, but they will be considered lost at 14 days overdue and you will be billed the replacement cost of $110 per item. We do not accept physical replacements for lost materials. No refunds will be given after an item is paid for, including instances where an item has been found after it has been paid.
+
+
+56% of SJSU Library's print collections are available for free electronically from HathiTrust through OneSearch as part of Emergency Temporary Access Service.See below for more information.   Due to the reopening of the physical collections, digitized access to copyrighted works via the HathiTrust Temporary Access Services will end. HathiTrust will continue to provide digital access to works in the public domain.
+
+
+
+For chemistry-related resources available at the library and online, please see our Chemistry Research Guide (LibGuide). The guide has a list of helpful research databases and strategies on finding chemistry books and peer-reviewed articles.
+
+
+Need access off-campus? It's just like logging into MySJSU or Canvas. Use:\n\nYour student ID (Tower card)\nYour MySJSU password.For other access questions visit Access the Library from Off Campus.
+
+
+
+"You can use the San Jose Public Catalog or San Jose State Library's OneSearch to search for books, CDs, DVDs, eBooks, etc (links listed below).
+
+
+
+You can search by title, author, subject, ISBN, or other types of identifying information.
+
+
+
+
+
+
+"
+
+
+
+SJSU students, faculty, and staff have access to Kanopy, a streaming service that hosts thousands of online educational videos including documentaries, films, and interviews. You will be asked to authenticate.
+
+
+
+Standard & Poor's can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+
+
+PubMed can be accessed through the library's "Articles & Databases" page, under "P". Click the link provided to directly access the page.
+
+
+IEEE is available through the library's list of databases. Click here to be directed to the IEEE access link.
+
+
+
+Springer databases can be accessed through the library's "Articles & Databases" page. Click the link provided to directly access the page.
+
+
+
+For currently available student assistant positions in the library and other employment with King Library, visit the SJSU Library employment page below for more information
+
+
+Due to the current pandemic, King Library is not accepting donations at this time. Thank you for understanding.
+
+
+
+"""If you have lost an item at the King Library, visit the Welcome Desk on the 1st floor.""
+
+
+
+ ""To recover valuable items such as cell phones and laptops, please contact King Library Security (408-808-2635)."
+
+
+
+There are WÃ„â€œpa print stations on the Ground Floor near the circulation desk, on the 2nd floor in the Copy Corner, and on the 3rd floor near the service desk. For a complete FAQ about printing at the King Library, please click the button below:
+
+
+
+ You can log on to any available public computer by entering your SJPL library card number and PIN or Tower ID and SJSUOne password on the login screen. On the 1st floor of the King Library, you can access a 15-minute computer without a library card in order to check email or browse the Internet. SJSU students, faculty, and staff can borrow laptops and other equipment from Student Computing Services on the fourth floor.
+
+
+"Restrooms on floors 1-8 are located near the elevators and the stairwell (the blue walls). Additional restrooms are located on the 1st floor near the self-checkout machines, on the 2nd floor near the JA-Z reference collection, on the 3rd floor near Non-Fiction 999 and on the Lower Level near the A-H range.
+
+
+
+
+
+"
+
+
+Scanners are available on the 2nd floor and 3rd floor at the WÃ„â€œpa print stations. For a complete FAQ about printing, scanning, and copying at King Library, please click the link below:
+
+
+
+King Library is located at the corner of South Fourth Street & East San Fernando Street in downtown San Jose. There are SJSU and City of San Jose parking garages nearby, as well as limited metered street parking outside the library. We are also just two blocks from downtown VTA Light Rail stations. Please note: The King Library does not validate City of San Jose parking garage tickets.   The address to the library is: 150 E San Fernando St, San Jose, CA 95112
+
+
+"Permalinks are stable, durable links that will consistently point to a specific information source such as an ebook, an article, a record in the catalog, a video, or a database.
+
+
+
+Permalinks allow you to share database resources with others.
+
+"
+
+
+Use OneSearch to find books, articles, & more from SJSU and other libraries worldwide. You will need to login with your SJSU One Credentials (your student/Tower ID # and MySJSU password) to access e-books, online journals and videos.
+
+
+The 6th edition of the APA manual is now out of date, but you can still find information about it on the Purdue Online Writing Lab.
+
+
+
+The seventh edition of the APA Publication Manual contains updates and additions designed to make APA style more useful for everyone. Please see the resource below for a list of important differences between the sixth and seventh editions.Not sure what edition to use? We recommend asking your professor.
+
+
+
+Find the book you need at the King Library. The following tutorial can you help know if a book is available in the library and how to find it on the shelf.
+
+
+
+
+"You can find databases by subject with our SJSU Library Research Guides (LibGuides). LibGuides can help you narrow down the databases you should use for your research topic.
+
+
+You can also browse a complete list of databases on our A-Z Databases page.
+
+
+
+"
+
+"To access VOYA:  Voices of Youth Advocates, enter the following credentials into the login page: Order number:  1123119
+
+
+
+Customer number:  39776 For other journal subscription passwords, please see: https://library.sjsu.edu/journal-titles/library-passwords"
+
+
+
+Need help with grant writing? The Center for Faculty Development, the Office of Research and the SJSU Research Foundation offer grant writing support and resources. See the link below for more information.
+
+
+
+The King Library will reopen on August 2, 2021. For in-person research help, check our Library Hours. Librarians are also still available to help via live chat, email, and Zoom.  Chat with a librarian during business hours or use the second link below to email a librarian. You will receive a response within 24 hours.
+
+
+
+You may browse our list of online tutorials. We cover topics such as writing a literature review, finding scholarly, peer-reviewed articles, and many more!
+
+
+
+"SJSU Librarians can answer your research questions during business hours!
+
+
+
+
+
+
+
+Librarian/Live Chat Hours are: Monday â€“ Thursday: 9am â€“ 7pm Friday: 9am â€“ 5pm Saturday â€“ Sunday: 1pm â€“ 5pm
+
+
+
+You can also email a librarian or find the list of librarians using the following links."
+
+
+Need help searching research articles and books? Please see the following links for helpful information and tips:
+
+
+
+"Plagiarism happens when you present someone else's work or ideas as your own.
+
+
+"
+
+Need to find a book on the shelf? Call numbers are used to locate books inside the library. You can find the book's call number using OneSearch (SJSU's Library Catalog). Remember to write down the call number and the floor that the book is on. For infomation about finding call numbers, please see the following link.
+
+Need help with starting your research or choosing a topic? Please click the following link for info!
+
+"APA format is commonly used in the social sciences.
+
+Please click the link below for resources to help you cite in APA format.
+
+"
+
+"Chicago format is typically used in history and other humanities disciplines. There are two types of Chicago format.
+
+Both styles are explained in detail in the Chicago Manual of Style Online.
+
+"
+
+"Modern Language Association (MLA) is a style of writing used for college-level writing.  MLA fomat is commonly used in the humanities.
+
+Please visit the link below for resources to help you cite in MLA format.
+
+"
+
+You can find company, industry, and consumer market databases and information in our Business Research Guide!
+
+For instructions on how to find e-Books, please click on the link below:
+
+Need to find sources for your research?  We have several resources that can help you!
+
+Great! Click one of the suggestion chips below:
+
+Need help citing sources? Type "Yes"
+
+There are several clues to look for when determining whether an article is scholarly (peer-reviewed). Please see the following link to for a list of what to look out for! :)
+
+"There are several clues to look for when determining whether a book is scholarly.
+
+Please see the following link to for a list of what to look out for! :)
+
+"
+
+Sure, I can help you with that! What type of articles do you need?
+
+A journal is a scholarly publication containing articles written by researchers, professors and subject experts. Journals focus on a specific discipline or field of study. Unlike newspapers and magazines, journals are intended for an academic or technical audience, not general readers.
+
+"Need a specific article?
+
+If you have the article title, and perhaps the author, you can probably find the article you're looking for. Check the link below for more information.
+
+"
+
+"Need newspaper articles or access to magazines such as the New York Times and the Wall Street Journal?
+
+Visit the following link for a list of newspaper and magazine databases that the library is subscribed to:
+"
+"Not sure what articles sources you'll need for your assignment?
+
+Visit the following link for helpful information about different types of articles sources.
+
+"
+
+"Peer-reviewed articles are written by experts and reviewed by other expertsâ€”their peersâ€”before they are published. It is a type of quality control. Peer-reviewed articles may also be called scholarly or refereed.
+"
+
+"A primary source is an item that was created during the period being studied and documents in some way what is being studied.
+
+
+
+ For examples of primary sources and how to search for them, please click the link below."
+
+"Did your professor ask you not to use ""online"" or ""Internet"" sources?
+
+Click the link below for a strategy on how to find print or non-Internet sources.
+
+"
+
+"Quoting and paraphrasing adds expert support to your essays and research papers.
+
+ Click the link below for strategies and resources to help you paraphrase research.
+
+"
+
+Need to report a problem with a library resource? Please visit the following link:
+
+Secondary source: A source that is one step removed from an event and analyzes primary sources. Examples include a book about World War II that is based on records from the time or a journal article about Chinese immigrants to San Francisco. Most books and articles are secondary sources.
+
+"You can find statistics almost anywhere: in newspaper articles and books, on websites, in library databases, in TV advertisements, and more. Check out the following link for useful statistical sources and strategies!
+
+
+"
+Looking for a thesis or dissertation? Check out the following link for more information.
+
+"You've come to the right place! Click the link below for in-depth information to help you understand your assignment.
+
+"
+
+A thesis is usually completed at the end of a master's program.  Itâ€™s a compilation of research that shows you are knowledgeable about your field and what you learned throughout your program. Itâ€™s a compilation of research that shows you are knowledgeble about your field and what you learned throughout your program.A dissertation is usually completed during a doctorate program and focuses on creating original research (contributing new knowledge, theories, and practices into your field).
+
+The King Library has hundreds of encyclopedias on specific subjects, such as biology, history, religion, and more. Using the OneSearch (link below) try a search on your subject "AND encyclopedias". For example, biology AND encyclopedias. Many of these encyclopedias are available as ebooks that you can read on your computer.
+
+Need to find a definition? Our Online Reference Sources LibGuide lists useful databases for finding definitions, encyclopedias, almanacs, factbooks, and more! Please see the link below.
+
+"To check if a journal is peer-reviewed, follow these steps:  1. Search for the journal's name in Ulrichs Periodicals Directory (link below).  Journals usually have names like: The Journal of Adolescent Psychology or Nursing Science Quarterly                                                                                                          2. Find the correct entry in the results list.
+
+3. Look to left of the title, and if you find a referee shirt icon, that means that the journal is peer-reviewed."
+
+Most ebooks are downloaded as PDFs.  Some require Adobe Digital Editions to download. Please contact us if you are unable to access an ebook or have general questions about the SJSU ebook collections.
+
+"Report noise issues at King Library by calling 408-808-2635 or texting 408-595-5614.
+
+Provide a good description of the location. Library Security Officers will respond as soon as possible; however, there may be other activity happening in the library that they need to attend to first."
+
+"While we are not currently able to offer overnight study, the library will be open for SJSU students until midnight from Sunday through Thursday during the Spring 2021 semester.
+
+
+
+â€¢ You must have your current SJSU Tower Card with you to remain in the building during extended hours.
+
+â€¢ CSU walk-in patron passes are not currently being accepted or issued.
+
+â€¢ For Spring 2022, Guest Passes for Extended Hours are not available. "
+
+RefWorks is no longer offered by the library. For citation management, we now offer the Zotero and Paperpile services. They are easy-to-use tools that can help with organizing sources and citations you find during your research. Click the following links to learn how to get started with both.
+
+ScholarWorks is the institutional repository for the campus. Its function is to preserve and provide access to the work of the SJSU community. Selected faculty, staff, and student publications are freely available for download. Students' master theses are collected and available digitally through ScholarWorks.
+
+"The San JosÃ© State University Writing Center offers a variety of resources to help students become better writers, and all of our services are free for SJSU students. COVID-19 Update (5/20/2020):
+
+
+
+As SJSU has moved in-person classes to an online environment due to COVID-19 concerns, Writing Center operations have also moved online."
+
+To access your San Jose Public Library (SJPL) account use the 14 digit code on the back of your library card and your 4 digit PIN. If you don't remember your pin, click "Forgot Your PIN" to reset it. Please note, you must have an email address listed in your library account to reset your PIN online. For questions, visit https://www.sjpl.org/contact
+
+SJSU will provide current San Jose Public Library users an account in OneSearch as long as their SJPL accounts are in good standing and they are not temporary borrowers. Patrons who do not yet have an SJPL account will need to get one before they can get an SJSU account. SJPL patrons will only be able to borrow items from the SJSU Library, not from CSU+.
+
+"Online and In-person Late-night tutoring is now available and free for all SJSU students. No appointments are required; students are attended to on a first-come, first-served basis.
+
+
+
+â€¢ Hours: During the semester Sunday through Wednesday from 8:00 pm â€“ 12:00 am
+
+â€¢ Courses available to tutor: biology, chemistry, math, and physics undergraduate courses        "
+
+"""Need assistance with software (i.e. Microsoft Word, Excel, PowerPoint, Adobe, SPSS)?""
+
+""The Student Technology Training Center (STTC) is available for virtual consultations on a variety of software applications, including SPSS, Excel, and the Adobe Suite.""
+
+
+
+"
+
+"All University items are due on 9/16/21. Books should be returned to book drops located on 4th Street. Late fees will not apply. Questions? Contact staff via chat, email (library-accounts@sjsu.edu), or by telephone (408-808-2000).
+"
+
+"
+
+To renew or return your laptop or other devices, please visit Student Computing Services (SCS) on the fourth floor of the library. To contact SCS,  please email Library-SCS-group@sjsu.edu  Please include your Tower ID and the type of equipment you are returning. Please visit the SCS page for more information about lending policies.   "
+
+You can temporarily save files to library computers; however, once your session is over, the files will be deleted. Patrons who wish to save documents or pictures for use beyond their computer session must save them to a USB flash drive or email the files as attachments. Library computers no longer have the ability to use floppy disks.
+
+"There are many study rooms in the King Library, located on the 6th, 7th and 8th floors.
+
+
+
+You can reserve these rooms up to 4 days in advance. You may only reserve a room for a maximum of one hour per day. Click the following link to reserve a study room: https://library.sjsu.edu/study-rooms/reserve-study-room  "
+
+Having trouble with your  SJSUOne ID username or password? Please reach out to SJSU's IT Service Desk (link below).
+
+"Study Rooms, KLEVR Lab, and the Sound Studio are now available to reserve. For more info, checkout the links down below:
+
+However, the Presentation Practice Room is still closed.
+
+Reserve a Study Room | Dr. Martin Luther King Jr. Library
+
+
+Reserve a Study Room | Dr. Martin Luther King Jr. Library
+
+Group Study Rooms at King Library
+
+
+
+There are many study rooms in the King Library, located on the 6th, 7th and 8th floors.
+
+Study Rooms: https://library.sjsu.edu/study-rooms/reserve-study-room                  KLEVR Lab: https://library.sjsu.edu/student-computing-services/klevr-lab          Sound Studio: https://library.sjsu.edu/student-computing-services/sound-studio"
+
+The Presentation Practice Room and the KLEVR Lab is closed until further notice. Thank you for understanding.
+
+
+This chatbot was used with Dialogflow and Kommunicate chatbot software. If you have questions about the chatbot, please contact Sharesly Rodriguez, at sharesly.rodriguez@sjsu.edu.
+
+In compliance with Santa Clara County's public health order, masks must be worn by everyone while inside the library, regardless of vaccination status. Masks are provided at the entrance of the library. Thank you for understanding.
+
+San Jose State (students, faculty, and staff) and public patrons can now access the library. Hours differ by patron type (see links below for more information). Extended Hours is currently only available to SJSU Students with a Tower Card.
+
+Due to SJSU policy, eating and drinking in the library is not allowed at this time. Thank you for understanding!
