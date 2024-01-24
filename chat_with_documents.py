@@ -78,12 +78,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
 
 openai_api_key = st.secrets["key"]
 
-uploaded_files = st.sidebar.file_uploader(
-    label="Upload PDF files", type=["pdf"], accept_multiple_files=True
-)
-if not uploaded_files:
-    st.info("Please upload PDF documents to continue.")
-    st.stop()
+uploaded_files = "kingbot.pdf"
 
 retriever = configure_retriever(uploaded_files)
 
