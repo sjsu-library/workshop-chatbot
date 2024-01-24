@@ -41,6 +41,28 @@ def configure_retriever(uploaded_files):
 
     return retriever
 
+def configure_retriever_local():
+    # Read documents
+    docs = []
+
+    with open("kingbot.pdf", "wb") as f:
+        f.write(file.getvalue())
+    loader = PyPDFLoader(temp_filepath)
+    docs.extend(loader.load())
+
+    # Split documents
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
+    splits = text_splitter.split_documents(docs)
+
+    # Create embeddings and store in vectordb
+    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    vectordb = DocArrayInMemorySearch.from_documents(splits, embeddings)
+
+    # Define retriever
+    retriever = vectordb.as_retriever(search_type="mmr", search_kwargs={"k": 2, "fetch_k": 4})
+
+    return retriever
+
 
 class StreamHandler(BaseCallbackHandler):
     def __init__(self, container: st.delta_generator.DeltaGenerator, initial_text: str = ""):
@@ -78,9 +100,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
 
 openai_api_key = st.secrets["key"]
 
-uploaded_files = "kingbot.pdf"
-
-retriever = configure_retriever(uploaded_files)
+retriever = configure_retriever_local()
 
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
