@@ -17,30 +17,6 @@ st.title("🦜 LangChain: Chat with Documents")
 st.text("Test chatbot for SJSU Library Kingbot, hosted on Streamlit Community Cloud")
 
 @st.cache_resource(ttl="1h")
-def configure_retriever(uploaded_files):
-    # Read documents
-    docs = []
-    temp_dir = tempfile.TemporaryDirectory()
-    for file in uploaded_files:
-        temp_filepath = os.path.join(temp_dir.name, file.name)
-        with open(temp_filepath, "wb") as f:
-            f.write(file.getvalue())
-        loader = PyPDFLoader(temp_filepath)
-        docs.extend(loader.load())
-
-    # Split documents
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
-    splits = text_splitter.split_documents(docs)
-
-    # Create embeddings and store in vectordb
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    vectordb = DocArrayInMemorySearch.from_documents(splits, embeddings)
-
-    # Define retriever
-    retriever = vectordb.as_retriever(search_type="mmr", search_kwargs={"k": 2, "fetch_k": 4})
-
-    return retriever
-
 def configure_retriever_local():
     # Read documents
     docs = []
