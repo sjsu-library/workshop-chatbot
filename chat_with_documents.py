@@ -11,8 +11,8 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-st.set_page_config(page_title="Chat with SJSU Library's Kingbot 🤖", page_icon="🤖")
-st.title("Kingbot - SJSU Library")
+st.set_page_config(page_title="Kingbot - SJSU Library", page_icon="🤖")
+st.title("Chat with SJSU Library's Kingbot 🤖")
 st.text("This experimental version of Kingbot uses Streamlit, LangChain, and ChatGPT.")
 @st.cache_resource(ttl="1h")
 def configure_retriever():
