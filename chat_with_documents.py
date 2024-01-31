@@ -69,7 +69,7 @@ llm = ChatOpenAI(
 qa_chain = ConversationalRetrievalChain.from_llm(
     llm, retriever=retriever, memory=memory, verbose=True
 )
-avatars = {"human": "🤔", "ai": "🤖"}
+avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
     st.chat_message(avatars[msg.type]).write(msg.content)
 if user_query := st.chat_input(placeholder="Ask me anything!"):
