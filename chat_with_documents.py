@@ -3,6 +3,8 @@ import tempfile
 import streamlit as st
 from langchain.chat_models import ChatOpenAI
 from langchain_community.document_loaders import DirectoryLoader
+from langchain_community.document_loaders import JSONLoader
+from langchain_community.document_loaders.merge import MergedDataLoader
 from langchain.memory import ConversationBufferMemory
 from langchain.memory.chat_message_histories import StreamlitChatMessageHistory
 from langchain.embeddings import HuggingFaceEmbeddings
@@ -16,9 +18,16 @@ st.title("Chat with SJSU Library's Kingbot 🤖")
 st.text("This experimental version of Kingbot uses Streamlit, LangChain, and ChatGPT.")
 @st.cache_resource(ttl="1h")
 def configure_retriever():
+    #read JSON
+    json_loader = JSONLoader(
+        file_path='./data/json/librarySCP.jsonl',
+        jq_schema='.content',
+        text_content=False,
+        json_lines=True)
     # Read documents
-    loader = DirectoryLoader('./data/text')
-    docs = loader.load()
+    text_loader = DirectoryLoader('./data/text')
+    loader_all = MergedDataLoader(loaders=[json_loader, text_loader])
+    docs = loader_all.load()
     # Split documents
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
     splits = text_splitter.split_documents(docs)
