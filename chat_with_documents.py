@@ -17,7 +17,7 @@ st.text("This experimental version of Kingbot uses Streamlit, LangChain, and Cha
 @st.cache_resource(ttl="1h")
 def configure_retriever():
     # Read documents
-    loader = DirectoryLoader('./data')
+    loader = DirectoryLoader('./data/text')
     docs = loader.load()
     # Split documents
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
