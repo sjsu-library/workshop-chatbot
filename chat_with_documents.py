@@ -26,7 +26,7 @@ def configure_retriever():
         json_lines=True)
     # Read documents
     text_loader = DirectoryLoader('./data/text')
-    loader_all = MergedDataLoader(loaders=[json_loader, text_loader])
+    loader_all = MergedDataLoader(loaders=[text_loader, json_loader])
     docs = loader_all.load()
     # Split documents
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
