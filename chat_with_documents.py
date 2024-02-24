@@ -32,6 +32,7 @@ def configure_retriever():
     json_loader = JSONLoader(
         file_path='./data/json/librarySCP.jsonl',
         jq_schema='.',
+        json_lines=True,
         content_key="content",
         metadata_func=metadata_func
     )
