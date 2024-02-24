@@ -37,7 +37,7 @@ def configure_retriever():
         file_path='./data/json/librarySCP.jsonl',
         jq_schema='.[]',
         text_content=False,
-        json_lines=True
+        json_lines=True,
         content_key="content",
         metadata_func=metadata_func)
     # Read documents
