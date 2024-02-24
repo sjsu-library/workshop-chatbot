@@ -18,13 +18,28 @@ st.set_page_config(page_title="Kingbot - SJSU Library", page_icon="🤖")
 st.title("Chat with SJSU Library's Kingbot 🤖")
 st.text("This experimental version of Kingbot uses Streamlit, LangChain, and ChatGPT.")
 @st.cache_resource(ttl="1h")
+# Define the metadata extraction function.
+def metadata_func(record: dict, metadata: dict) -> dict:
+
+    metadata["url"] = record.get("url")
+    metadata["title"] = record.get("title")
+
+    if "source" in metadata:
+        source = metadata["source"].split("/")
+        source = source[source.index("langchain"):]
+        metadata["source"] = "/".join(source)
+
+    return metadata
+
 def configure_retriever():
     #read JSON
     json_loader = JSONLoader(
         file_path='./data/json/librarySCP.jsonl',
-        jq_schema='.content',
+        jq_schema='.[]',
         text_content=False,
-        json_lines=True)
+        json_lines=True
+        content_key="content",
+        metadata_func=metadata_func)
     # Read documents
     text_loader = DirectoryLoader('./data/text')
     loader_all = MergedDataLoader(loaders=[text_loader, json_loader])
