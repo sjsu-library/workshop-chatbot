@@ -71,7 +71,7 @@ openai_api_key = st.secrets["key"]
 retriever = configure_retriever()
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
-memory = ConversationBufferMemory(memory_key="chat_history", input_key="user_query", chat_memory=msgs, return_messages=True)
+memory = ConversationBufferMemory(memory_key="chat_history", chat_memory=msgs, return_messages=True)
 # Set up the LLMChain, passing in memory
 template = """
 "You are a helpful librarian. Please answer the following question based on the provided context. When possible, end your response with a link to a relevant document."
@@ -80,7 +80,7 @@ CONTEXT:
 {context}
 
 QUESTION:
-{user_query}
+{msg}
 
 CHAT HISTORY:
 {chat_history}
@@ -88,7 +88,7 @@ CHAT HISTORY:
 ANSWER:
 """
 
-prompt = PromptTemplate(input_variables=["chat_history", "user_query", "context"], template=template)
+prompt = PromptTemplate(input_variables=["chat_history", "msg", "context"], template=template)
 
 # Setup LLM and QA chain
 llm = ChatOpenAI(
