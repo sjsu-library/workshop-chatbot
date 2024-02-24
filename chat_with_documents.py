@@ -12,6 +12,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.prompts import PromptTemplate
 
 st.set_page_config(page_title="Kingbot - SJSU Library", page_icon="🤖")
 st.title("Chat with SJSU Library's Kingbot 🤖")
