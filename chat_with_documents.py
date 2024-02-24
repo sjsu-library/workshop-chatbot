@@ -71,13 +71,21 @@ retriever = configure_retriever()
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
 memory = ConversationBufferMemory(memory_key="chat_history", chat_memory=msgs, return_messages=True)
+# Set up the LLMChain, passing in memory
+template = """You are an AI chatbot having a conversation with a human.
+
+{history}
+Human: {human_input}
+AI: """
+prompt = PromptTemplate(input_variables=["history", "human_input"], template=template)
+
 # Setup LLM and QA chain
 llm = ChatOpenAI(
     model_name="gpt-3.5-turbo", openai_api_key=openai_api_key, temperature=0, streaming=True
 )
 
 qa_chain = ConversationalRetrievalChain.from_llm(
-    llm, retriever=retriever, memory=memory, verbose=True
+    llm, retriever=retriever, memory=memory, verbose=True, prompt=prompt
 )
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
