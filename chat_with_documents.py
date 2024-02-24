@@ -85,7 +85,6 @@ QUESTION:
 CHAT HISTORY:
 {chat_history}
 
-ANSWER:
 """
 
 prompt = PromptTemplate(input_variables=["chat_history", "question", "context"], template=template)
