@@ -72,22 +72,8 @@ retriever = configure_retriever()
 # Setup memory for contextual conversation
 msgs = StreamlitChatMessageHistory()
 memory = ConversationBufferMemory(memory_key="chat_history", chat_memory=msgs, return_messages=True)
-# Set up the LLMChain, passing in memory
-template = """
-You are a helpful librarian. Please answer the following question based on the provided context. When possible, end your response with a link to a relevant document.
 
-CONTEXT:
-{context}
 
-QUESTION:
-{question}
-
-CHAT HISTORY:
-{chat_history}
-
-"""
-
-prompt = PromptTemplate(input_variables=["chat_history", "question", "context"], template=template)
 
 # Setup LLM and QA chain
 llm = ChatOpenAI(
