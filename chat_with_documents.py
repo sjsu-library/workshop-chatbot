@@ -26,6 +26,7 @@ def metadata_func(record: dict, metadata: dict) -> dict:
 
     return metadata
 
+
 def configure_retriever():
     #read JSON
     json_loader = JSONLoader(
