@@ -24,11 +24,6 @@ def metadata_func(record: dict, metadata: dict) -> dict:
     metadata["url"] = record.get("url")
     metadata["title"] = record.get("title")
 
-    if "source" in metadata:
-        source = metadata["source"].split("/")
-        source = source[source.index("langchain"):]
-        metadata["source"] = "/".join(source)
-
     return metadata
 
 def configure_retriever():
