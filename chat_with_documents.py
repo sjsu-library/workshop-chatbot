@@ -32,10 +32,9 @@ def configure_retriever():
     json_loader = JSONLoader(
         file_path='./data/json/librarySCP.jsonl',
         jq_schema='.',
-        text_content=False,
-        json_lines=True,
         content_key="content",
-        metadata_func=metadata_func)
+        metadata_func=metadata_func
+    )
     # Read documents
     text_loader = DirectoryLoader('./data/text')
     loader_all = MergedDataLoader(loaders=[text_loader, json_loader])
