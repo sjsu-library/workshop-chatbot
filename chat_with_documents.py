@@ -80,7 +80,7 @@ CONTEXT:
 {context}
 
 QUESTION:
-{query}
+{user_query}
 
 CHAT HISTORY:
 {chat_history}
@@ -88,7 +88,7 @@ CHAT HISTORY:
 ANSWER:
 """
 
-prompt = PromptTemplate(input_variables=["chat_history", "query", "context"], template=template)
+prompt = PromptTemplate(input_variables=["chat_history", "user_query", "context"], template=template)
 
 # Setup LLM and QA chain
 llm = ChatOpenAI(
