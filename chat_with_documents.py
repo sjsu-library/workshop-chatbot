@@ -86,7 +86,7 @@ llm = ChatOpenAI(
 )
 
 qa_chain = ConversationalRetrievalChain.from_llm(
-    llm, retriever=retriever, memory=memory, verbose=True
+    llm, retriever=retriever, memory=memory, verbose=True, combine_docs_chain_kwargs={"prompt":prompt}
 )
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
