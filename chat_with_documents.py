@@ -76,7 +76,7 @@ llm = ChatOpenAI(
     model_name="gpt-3.5-turbo", openai_api_key=openai_api_key, temperature=0, streaming=True
 )
 qa_chain = ConversationalRetrievalChain.from_llm(
-    llm, retriever=retriever, memory=memory, verbose=True
+    llm, retriever=retriever, memory=memory, verbose=True, combine_docs_chain_kwargs={"prompt": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Always end your answer with a link to a relevant resource."}
 )
 avatars = {"human": "user", "ai": "assistant"}
 for msg in msgs.messages:
