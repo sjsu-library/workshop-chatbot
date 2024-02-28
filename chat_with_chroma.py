@@ -23,7 +23,7 @@ st.text("This experimental version of Kingbot uses Streamlit, LangChain, and Cha
 @st.cache_resource(ttl="1h")
 def configure_retriever():
     embedding = OpenAIEmbeddings(openai_api_key=openai_api_key)
-    client = chromadb.HttpClient(host='mlk-tutorial01.sjsu.edu', port=8000)
+    client = chromadb.HttpClient(host='', port=8000)
     dbremote = Chroma(
         client=client,
         collection_name="sjsulib",
