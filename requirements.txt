@@ -12,3 +12,5 @@ hnswlib==0.7.0
 unstructured
 langchain-community
 jq
+tiktoken
+chromadb
