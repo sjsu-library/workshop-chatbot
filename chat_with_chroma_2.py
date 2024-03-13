@@ -41,10 +41,10 @@ class StreamHandler(BaseCallbackHandler):
     def on_llm_start(self, serialized: dict, prompts: list, **kwargs):
         # Workaround to prevent showing the rephrased question as output
         if prompts[0].startswith("Human"):
-            self.run_id_ignore_token = kwargs.get("run_id")
+           self.run_id_ignore_token = kwargs.get("run_id")
     def on_llm_new_token(self, token: str, **kwargs) -> None:
-        if self.run_id_ignore_token == kwargs.get("run_id", False):
-            return
+        # if self.run_id_ignore_token == kwargs.get("run_id"):
+        #   return
         self.text += token
         self.container.markdown(self.text)
 class PrintRetrievalHandler(BaseCallbackHandler):
@@ -79,6 +79,7 @@ msgs = StreamlitChatMessageHistory()
 memory = ConversationBufferMemory(
     memory_key="chat_history",
     return_messages=True,
+    chat_memory=msgs,
     output_key='answer'
 )
 qa_chain = RetrievalQAWithSourcesChain.from_chain_type(
@@ -98,5 +99,3 @@ if user_query := st.chat_input(placeholder="Ask me anything!"):
         retrieval_handler = PrintRetrievalHandler(st.container())
         stream_handler = StreamHandler(st.empty())
         response = qa_chain(user_query, callbacks=[retrieval_handler, stream_handler])
-        answer = response['answer']
-        st.write(answer)
