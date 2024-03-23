@@ -9,3 +9,4 @@ tiktoken
 chromadb
 SQLAlchemy==1.4.0
 mysqlclient
+pysqlite-binary
