@@ -8,3 +8,4 @@ jq
 tiktoken
 chromadb
 SQLAlchemy==1.4.0
+pysqlite-binary

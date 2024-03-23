@@ -11,6 +11,11 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from streamlit.runtime.scriptrunner import get_script_run_ctx
 from sqlalchemy.sql import text
+
+# these three lines swap the stdlib sqlite3 lib with the pysqlite3 package
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import chromadb
 
 st.set_page_config(page_title="Kingbot - SJSU Library", page_icon="🤖")
