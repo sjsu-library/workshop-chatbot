@@ -1,4 +1,4 @@
-langchain=0.1
+langchain==0.1
 openai==0.27.8
 streamlit-feedback==0.0.9
 streamlit
