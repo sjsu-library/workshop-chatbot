@@ -6,3 +6,4 @@ hnswlib==0.7.0
 langchain-community
 jq
 tiktoken
+unstructured
