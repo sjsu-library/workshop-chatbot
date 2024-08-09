@@ -9,3 +9,4 @@ tiktoken
 unstructured
 sentence_transformers
 docarray
+pydantic
