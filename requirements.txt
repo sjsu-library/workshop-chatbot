@@ -6,6 +6,3 @@ hnswlib==0.7.0
 langchain-community
 jq
 tiktoken
-chromadb
-SQLAlchemy==1.4.0
-pysqlite-binary
